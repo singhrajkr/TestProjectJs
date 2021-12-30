@@ -1,0 +1,27 @@
+{
+  "name": "otaliotestprojectjs",
+  "version": "1.0.0",
+  "description": "POC for Otalio with TestProject",
+  "main": "OtalioTestRunner.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singhrajkr/TestProjectJs.git"
+  },
+  "keywords": [
+    "TestProject",
+    "JavaScript",
+    "POC"
+  ],
+  "author": "Raj Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/singhrajkr/TestProjectJs/issues"
+  },
+  "homepage": "https://github.com/singhrajkr/TestProjectJs#readme",
+  "dependencies": {
+    "@tpio/javascript-opensdk": "^0.1.1"
+  }
+}
